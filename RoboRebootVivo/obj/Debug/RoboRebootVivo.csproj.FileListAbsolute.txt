@@ -1,0 +1,17 @@
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\RoboRebootVivo.exe.config
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\RoboRebootVivo.exe
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\RoboRebootVivo.pdb
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\WebDriver.dll
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\obj\Debug\RoboRebootVivo.csproj.AssemblyReference.cache
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\obj\Debug\RoboRebootVivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\obj\Debug\RoboRebootVivo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\obj\Debug\RoboRebootVivo.csproj.CopyComplete
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\obj\Debug\RoboRebootVivo.exe
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\obj\Debug\RoboRebootVivo.pdb
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\RoboRebootVivo.exe.manifest
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\bin\Debug\RoboRebootVivo.application
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\obj\Debug\RoboRebootVivo.exe.manifest
+C:\Users\felip\Downloads\RoboRebootVivo-master (1)\RoboRebootVivo-master\RoboRebootVivo\obj\Debug\RoboRebootVivo.application
